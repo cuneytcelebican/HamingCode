@@ -1,0 +1,32 @@
+/********************************************************************************/
+/*										*/
+/*	This program written by Cuneyt Celebican student id 101050732		*/
+/*										*/
+/*	This program written in COMP2401B-W17.ova machine and I use its		*/
+/*	compiler while testing. This program written in C language.		*/
+/*										*/
+/*	To compile the program, you have to go to document folder on		*/
+/*	your terminal then you can have to enter following commands		*/
+/*	gcc -o recv receive.c bit_manipulation.c				*/
+/*	./recv									*/
+/*										*/
+/*	After typed above command, the program will ask you "Enter transmitted	*/	
+/*	message:".								*/
+/*										*/
+/*	For example, if you enter following transmitted message in the program	*/
+/*	2960 3100 3942 7256 1286 3080 1285 8040 3836 2290 3286 3160 3898 3140	*/ 
+/*	3922 3280 5380 3670 3100 4024 3338					*/
+/*										*/
+/*	The program will produce following output for you			*/
+/*	Transmitted Message:							*/ 
+/*	Xav� a �Nlesdtl�ta{a							*/
+/*										*/
+/*	Corrected Transmitted Message:						*/
+/*	Have a wonderful day!							*/
+/*										*/
+/*	Basically, the program produces 2 different output. One for uncorrected */
+/*	transmitted message and one for corrected message			*/
+/*										*/
+/*	Thank you for using and testing my receive program.			*/
+/*										*/
+/********************************************************************************/
